@@ -8,7 +8,7 @@
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](github.com/Joowon0220/TODO-List) 
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](github.com/Joowon0220/TODO-List)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
 
 
 
