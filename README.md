@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&text=welcome! )
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&text=Welcome~ )
+
+### Learing
+- java
+- Spring 
+- Docker
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbs1621)](https://github.com/sbs1621/github-readme-stats)
+
 
 
 
