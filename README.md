@@ -4,7 +4,7 @@
 - ETRI 하계연구연수생 (2022.7.11 - 2022.8.31)
 
 ### Learning
-[![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)]()　[![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)]()　[![SpringSecurity Badge](https://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)]()<br>
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)]() [![kubernetes Badge](https://img.shields.io/badge/-kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)]()<br>
+[![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white)]() [![SpringBoot Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)]() [![SpringSecurity Badge](https://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)]()<br>
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)]() [![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)]()<br>
 [![Postgresql Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)]()<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbs1621&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
